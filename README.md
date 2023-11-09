@@ -13,3 +13,7 @@ centroimg, raioimg, poscameraimg - projeção da esfera modificando diferentes p
 geraply - gera um arquivo PLY de uma esfera
 
 iluminação - implementação da projeção de luz na esfera
+
+Mickey - Projeção Paralela da cabeça do Mickey nos planos XY, YZ e ZX
+
+tetraedro - Projeção Paralela do tetraedro nos planos XY, YZ e ZX
