@@ -1,7 +1,8 @@
 # Projeto-de-IC_Sintese-de-Imagens-Digitais
 
 legenda:
-combimg - algoritmo que usa a função de Projeção Paralela para proejtar esferas de cores e trajetórias diferentes na mesma imagem
+
+combimg - algoritmo que usa a função de Projeção Paralela para projetar esferas de cores e trajetórias diferentes na mesma imagem
 
 projeção paralela - algoritmo que implementa a projeção paralela de uma esfera
 
